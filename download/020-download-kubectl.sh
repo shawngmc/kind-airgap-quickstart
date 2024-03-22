@@ -8,5 +8,5 @@ echo "${KUBECTL_URL}" >> ${GAP_DIR}/urls.txt
 wget "${KUBECTL_URL}" -O ${GAP_DIR}/kubectl
 
 # Temp Install Kubectl
-sudo cp ${GAP_DIR}/kubectl ${GAP_DIR}/temp/
-sudo chmod 755 ${GAP_DIR}/temp/kubectl
+cp ${GAP_DIR}/kubectl ${GAP_DIR}/temp/
+chmod 755 ${GAP_DIR}/temp/kubectl

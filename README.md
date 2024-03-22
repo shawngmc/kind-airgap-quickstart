@@ -33,7 +33,7 @@ python3 -m pip install --user yq
 ### Install from downloaded files
 ```./quickstart.sh install```
 
-### Smoketest the installed K3s node
+### Smoketest the installed K9s node
 ```./smoketest.sh```
 
 
