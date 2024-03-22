@@ -1,4 +1,4 @@
-# k3s-airgap-quickstart
+# kind-airgap-quickstart
 
 ## Requirements
 ### Path modification
